@@ -116,11 +116,11 @@
   border-radius: 10px;
 }
 .customOverlay {
-  background: rgba(36, 123, 160, 0.7);
+ background-color: white;
 }
 .customModal {
-  background: #b2dbbf;
-  width: 500px;
+  background-color: white;
+  max-width: 450x;
   border-radius: 20px;
   box-shadow:0px 0px 20px 5px  rgba(224, 224, 224, 1)  !important ;
   overflow-wrap: break-word;
